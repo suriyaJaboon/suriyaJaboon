@@ -16,4 +16,8 @@ world and doing many other things.
 3. Solve them one by one
 4. Always search for a better solution
 
-![Erdal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=suriyaJaboon&show_icons=true&hide_border=true)
+![Erdal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=suriyaJaboon&show_icons=true&hide_border=true&theme=blueberry)
+![Erdal's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=suriyaJaboon&theme=gotham)
+
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suriyaJaboon&layout=compact)
